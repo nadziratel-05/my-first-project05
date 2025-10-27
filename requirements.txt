@@ -1,3 +1,4 @@
+pip
 aiogram==3.4.1
 aiosqlite
 python-dotenv
